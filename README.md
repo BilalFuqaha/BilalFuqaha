@@ -31,7 +31,7 @@ A passionate *Data Analyst* interested in transforming data into clear and actio
 
 ## 📁 My Projects
 
-### 🔹 *Project 1: [Project Name]*
+### 🔹 *Project 1: [Shop-Sales-Analysis] (https://github.com/BilalFuqaha/Shop-Analysis-Project)*
 *Description:*  
 Brief description of the project and the insights you discovered.
 
