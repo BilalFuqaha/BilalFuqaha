@@ -1,72 +1,77 @@
-# 👋 Hi, I'm a Data Analyst  
 
-Welcome to my GitHub!  
-I'm a *Data Analyst* passionate about turning raw data into meaningful insights that support better decision-making.
-
----
-
-## 📊 About Me
-- 🔍 I specialize in *data cleaning, analysis, and visualization*
-- 🧠 I enjoy solving problems using *Python, SQL, and business intelligence tools*
-- 📈 I love transforming numbers into clear, actionable stories
-- 🛠️ Tools I use: *Excel • SQL • Power BI • Python (Pandas, NumPy, Matplotlib)*  
-- 🎯 Always learning, exploring, and improving my analytical skills
+# 👋 Hi, I'm Bilal Fuqaha
+A passionate *Data Analyst* interested in transforming data into clear and actionable insights.
 
 ---
 
-## 🚀 What I Do
-- Clean and prepare messy data  
-- Analyze datasets to uncover trends and patterns  
-- Build dashboards and visual reports  
-- Present insights that help businesses make informed decisions  
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
 ---
 
-## 📁 My Repositories
-Here you’ll find:
-- 🔹 Data analysis projects  
-- 🔹 Dashboards  
-- 🔹 SQL queries  
-- 🔹 Python scripts  
-- 🔹 Notebooks with exploratory analysis  
+## 📌 Tools I Use
+- *Excel*
+- *Power BI*
+- *SQL*
+- *Python*
+- *Pandas*
+- *NumPy*
+- *Matplotlib / Seaborn*
+- *Jupyter Notebook*
 
 ---
 
-## 🎓 Continuous Learning
-I’m committed to improving my skills through:
-- Online courses  
-- Hands-on datasets  
-- Personal projects  
-- Reading about analytics, BI tools, and visualization best practices  
+## 📁 My Projects
+
+### 🔹 *Project 1: [Project Name]*
+*Description:*  
+Brief description of the project and the insights you discovered.
+
+*Tools Used:*  
+- Excel  
+- Power BI  
+- Python  
 
 ---
 
-## 📬 Contact Me
-Feel free to connect with me:  
+### 🔹 *Project 2: [Project Name]*
+*Description:*  
+Brief description of the project and what you analyzed.
 
-- *LinkedIn:* [Your LinkedIn]  
-- *Email:* your@email.com  
-- *GitHub:* [Your GitHub profile]
+*Tools Used:*  
+- SQL  
+- Python (Pandas, NumPy)  
+- Jupyter Notebook  
 
 ---
 
-⭐ If you find my work helpful, feel free to star my repositories!
+### 🔹 *Project 3: [Project Name]*
+*Description:*  
+Brief explanation of the dataset and analysis results.
 
+*Tools Used:*  
+- Power BI  
+- Excel  
 
+---
 
+### 🔹 *Project 4: [Project Name]*
+*Description:*  
+Short overview of the analysis and final output.
 
+*Tools Used:*  
+- Python  
+- matplotlib / seaborn  
+- Pandas  
 
-<!--
-**BilalFuqaha/BilalFuqaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ✨ More projects will be added as I continue learning and creating impactful data solutions.
